@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.2c80dabf.css",
   "main.css.map": "static/css/main.2c80dabf.css.map",
-  "main.js": "static/js/main.24827cc1.js",
-  "main.js.map": "static/js/main.24827cc1.js.map",
+  "main.js": "static/js/main.e3b3ae38.js",
+  "main.js.map": "static/js/main.e3b3ae38.js.map",
   "static\\media\\btn01.png": "static/media/btn01.0b4f99b7.png",
   "static\\media\\btn02.png": "static/media/btn02.dd4f1dc1.png",
   "static\\media\\btn04.png": "static/media/btn04.8367cd5b.png",
@@ -81,7 +81,6 @@
   "static\\media\\まいります.mp3": "static/media/まいります.af68d0a1.mp3",
   "static\\media\\みず.mp3": "static/media/みず.964bc877.mp3",
   "static\\media\\みずをそそぐ.png": "static/media/みずをそそぐ.a9a382be.png",
-  "static\\media\\めざまし.mp3": "static/media/めざまし.b38bb59f.mp3",
   "static\\media\\めざましどけい.png": "static/media/めざましどけい.8e75b324.png",
   "static\\media\\やかん.mp3": "static/media/やかん.d2e82c84.mp3",
   "static\\media\\やかんがなる.png": "static/media/やかんがなる.d5e8f050.png",
@@ -108,5 +107,6 @@
   "static\\media\\マジックペン.mp3": "static/media/マジックペン.93ac2ab0.mp3",
   "static\\media\\マーカーでえをかく.png": "static/media/マーカーでえをかく.2dd96bd5.png",
   "static\\media\\ラーメン.mp3": "static/media/ラーメン.66cc40ed.mp3",
-  "static\\media\\ラーメンをすする.png": "static/media/ラーメンをすする.9972a396.png"
+  "static\\media\\ラーメンをすする.png": "static/media/ラーメンをすする.9972a396.png",
+  "static\\media\\新めざまし.mp3": "static/media/新めざまし.95329cf7.mp3"
 }
